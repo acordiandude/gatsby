@@ -10731,3 +10731,11 @@
     - Food
   built_by: Ramón Chancay
   built_by_url: https://ramonchancay.me/
+- title: NordVPN Teams
+  url: https://nordvpnteams.com/
+  main_url: https://nordvpnteams.com/
+  description: >
+    Powerful Business VPN solutions from NordVPN Teams
+  categories:
+    - E-commerce
+  featured: false
